@@ -3,7 +3,8 @@ class British:
     
     our = string.replace("or", "our")
     chewsday = our.replace("tuesday", "chewsday")
-    biscuit = chewsday.replace("cookie", "biscuit")
+    schewpid = chewsday.replace("stupid", "schewpid")
+    biscuit = schewpid.replace("cookie", "biscuit")
     centre = biscuit.replace("er", "re")
     oi = centre.replace("hey", "oi")    
     
