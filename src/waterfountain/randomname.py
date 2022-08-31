@@ -1,5 +1,4 @@
 from codecs import getencoder
-import json
 import os
 import requests
 
